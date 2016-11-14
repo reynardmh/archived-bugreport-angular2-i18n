@@ -26,6 +26,13 @@ There is one empty trans-unit in messages.xlf
 </trans-unit>
 ```
 
+## Expected behavior
+
+There should be trans-unit for the following texts: 
+- There are no messages
+- There is one messages
+- There are `<x id="INTERPOLATION"/>` messages
+ 
 ## How to run the project
 
 ```
