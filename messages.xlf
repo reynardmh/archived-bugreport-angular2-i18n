@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="bf8784bc7d9d0907e9e0eda7900fc83868980a72" datatype="html">
+        <source>Here is a translated text</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="d1d9daf4574c5a84c8ff0ad84059344ce48b91c2" datatype="html">
+        <source/>
+        <target/>
+      </trans-unit>
+      <trans-unit id="bea1c68c573889ff97d71fccd3c6c8a2dc0aa28d" datatype="html">
+        <source>Increment</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="24e64c57113bf7eff53f15f7c4ccc6b3ba4af393" datatype="html">
+        <source>Increment button</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="89a8f6d38e8fa38792cacab9d3f3c9c6cf1d7b1a" datatype="html">
+        <source>Decrement</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="c0b2865fe7aeeb7cbbac2c45612817c1b66a1d59" datatype="html">
+        <source>Decrement button</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

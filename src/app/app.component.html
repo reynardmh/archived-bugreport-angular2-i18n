@@ -1,3 +1,14 @@
 <h1>
   {{title}}
 </h1>
+
+<div i18n>Here is a translated text</div>
+
+<div i18n>{count, plural,
+  =0 {There are no messages}
+  =1 {There is one message}
+  other {There are {{count}} messages}
+  }</div>
+
+<button i18n i18n-aria-label aria-label="Increment button" (click)="increment()">Increment</button>
+<button i18n i18n-aria-label aria-label="Decrement button" (click)="decrement()">Decrement</button>
